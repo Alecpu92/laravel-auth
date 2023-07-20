@@ -17,5 +17,5 @@ class project extends Model
         "creator"
 
 
-    ]
+    ];
 }
